@@ -1,7 +1,12 @@
-# postbuild Ansible Role
+# README for: Project A
 
 ## About
-> Note: This role currently ONLY supports RHEL9
+> Notes:
+> This role currently ONLY supports RHEL9
+> Used to support Project B
+> Was converted from Puppet to Ansible
+
+This code is used for doing very complicated things, such as solving a Rubik's cube. It is important to have the following background information about why the code is needed for the project. Project 2 is scheduled to play Tetris on Mondays, if the Rubik's cube isn't completed, the Tetris will fail. 
 
 
 | Info | About |
@@ -24,8 +29,6 @@ Anything info about vars entered here
 | Setting | Parameters | Additional Info |
 | ------ | ------ | ------ |
 | File List | postbuild_files | List of Files to Remove |
-
-
 
 
 ## Inputs & Output
