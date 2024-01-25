@@ -1,7 +1,23 @@
 # README for: Project A
 
 ## About
-> Notes: This role currently ONLY supports RHEL9
+
+> [!NOTE]
+> Runs on RHEL9 Only
+
+> [!TIP]
+> Refresh between pulls
+
+> [!IMPORTANT]
+> Ensure no security data is hardcoded
+
+> [!WARNING]
+> Don't push to master without approval
+
+> [!CAUTION]
+> May crash if variables aren't correct
+
+
 
 This code is used for doing very complicated things, such as solving a Rubik's cube. It is important to have the following background information about why the code is needed for the project. Project 2 is scheduled to play Tetris on Mondays, if the Rubik's cube isn't completed, the Tetris will fail. 
 
@@ -60,20 +76,18 @@ Under condition A the expected output is B. If input B = 1 output B defaults to 
 
 ## Support
 
-To raise a support ticket:
-    1. Go to wherever
-    2. Click whatever
-    3. Wait
-    4. Done!
+To get support
+1. Contact Team A
+1. Contact Product Owner
 
-Process Flow
+Process Flow for Further Support
 
 ```mermaid
 flowchart LR
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+    A[Hard edge] -->|Raise Ticket on Service Now| B(Round edge)
+    B --> C{Issue Resolved?}
+    C -->|Yes| D[Good]
+    C -->|No| E[Contact PM]
 ```
     
 ## Team
