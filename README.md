@@ -1,10 +1,7 @@
 # README for: Project A
 
 ## About
-> Notes:
-> This role currently ONLY supports RHEL9
-> Used to support Project B
-> Was converted from Puppet to Ansible
+> Notes: This role currently ONLY supports RHEL9
 
 This code is used for doing very complicated things, such as solving a Rubik's cube. It is important to have the following background information about why the code is needed for the project. Project 2 is scheduled to play Tetris on Mondays, if the Rubik's cube isn't completed, the Tetris will fail. 
 
@@ -14,12 +11,13 @@ This code is used for doing very complicated things, such as solving a Rubik's c
 | Version | v1.1|
 | GitHub | [criticalserver/topsecret/supersecret]  |
 | Documentation | [documentation/supersecret.pdf] |
+| Environment | Dev |
 | Code Owner | John Smith - john.smith@example.com |
 
 ## Features
 - Boilerplate file to help give structure
 - Ran in the test environment
-- Whatever quick easy to read the info you think would help to understand what it does/how it works etc
+- Whatever quick easy to read info you think would help to understand what it does/how it works etc
 
 
 ## Vars
