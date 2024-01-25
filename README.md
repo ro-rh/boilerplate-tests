@@ -84,7 +84,7 @@ Process Flow for Further Support
 
 ```mermaid
 flowchart LR
-    A[Hard edge] -->|Raise Ticket on Service Now| B(Round edge)
+    A[Go to Service Now] --> B[Raise Ticket Under 'Project A']
     B --> C{Issue Resolved?}
     C -->|Yes| D[Good]
     C -->|No| E[Contact PM]
