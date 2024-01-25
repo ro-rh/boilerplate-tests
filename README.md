@@ -65,6 +65,15 @@ To raise a support ticket:
     2. Click whatever
     3. Wait
     4. Done!
+
+Process Flow
+
+```mermaid
+graph TD;
+    Identify system issue --> Go to Service Now;
+    Select 'Project A' --> Await Response;
+    Check if Fix Works --> Inform PM of status;
+```
     
 ## Team
 
