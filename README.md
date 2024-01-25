@@ -69,10 +69,11 @@ To raise a support ticket:
 Process Flow
 
 ```mermaid
-graph TD;
-    Identify system issue --> Go to Service Now;
-    Select 'Project A' --> Await Response;
-    Check if Fix Works --> Inform PM of status;
+flowchart LR
+    A[Hard edge] -->|Link text| B(Round edge)
+    B --> C{Decision}
+    C -->|One| D[Result one]
+    C -->|Two| E[Result two]
 ```
     
 ## Team
