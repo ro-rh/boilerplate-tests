@@ -1,4 +1,4 @@
-# README for: Project A
+ential# README for: Project A
 
 ## About
 
@@ -42,7 +42,7 @@ Anything info about vars entered here
 
 | Setting | Parameters | Additional Info |
 | ------ | ------ | ------ |
-| File List | postbuild_files | List of Files to Remove |
+| File List | sequential-files | List of Files to Remove |
 
 
 ## Inputs & Output
