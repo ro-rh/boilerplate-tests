@@ -1,4 +1,7 @@
-ential# README for: Project A
+# README for: Project A
+
+## Notes
+The following is a README template that can be used to create documentation around any Ansible automation.
 
 ## About
 
